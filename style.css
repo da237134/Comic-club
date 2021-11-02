@@ -1,16 +1,15 @@
 body {
     background-color: black;
 }
-h1 {
+Main page title {
     font-family:cursive;
     text-align: center;
     font-size: 65;
     color: orangered;
         text-shadow: 19px 1px 20px darkorange;
 }
-header {
+in H {
     font-size: 26;
     color: red;
     text-shadow: 1px 1px 6px firebrick;
-    animation: 
 }
