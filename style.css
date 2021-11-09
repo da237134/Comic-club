@@ -1,15 +1,28 @@
-body {
-    background-color: black;
-}
-Main page title {
+
+
+h1 {
     font-family:cursive;
     text-align: center;
     font-size: 65;
     color: orangered;
         text-shadow: 19px 1px 20px darkorange;
 }
-in H {
+header {
     font-size: 26;
-    color: red;
     text-shadow: 1px 1px 6px firebrick;
+}
+ {
+   font-size: 26;
+    text-shadow: 1px 1px 6px orange; 
+}
+secondheader {
+    font-size: 26;
+    color: yellow;
+    text-shadow: 1px 1px 6px orange; 
+}
+first {
+    background-color: red;
+}
+a {
+    color: ivory;
 }
